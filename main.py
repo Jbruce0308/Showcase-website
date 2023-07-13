@@ -14,3 +14,5 @@ with col2:
     in the cloud space for 3 years
     """
     st.info(content)
+content2 = """Below you can find some of the apps i have built in Python. Feel free to contact me soon"""
+st.write(content2)
